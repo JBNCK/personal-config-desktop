@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=App Store
+Comment=Access the flathub app store and download apps and games
+Exec=xdg-open https://flathub.org
+Icon=software
+Categories=Network;System;Utilities;
+
